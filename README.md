@@ -37,7 +37,7 @@ Showcasing my proven ability to apply technical skills to solve complex problems
 
 **Status**: Findings being prepared for presentation at the Global Conference Alliance Inc., Canada (2026).
 
-### Selected Projects & Experience
+   ### Selected Projects & Experience
 
 # Freelance Data Analyst, Content Creator (Jan. 2025 - Present): 
 * Collect, clean, and analyze structured/unstructured data. 

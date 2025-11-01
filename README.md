@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Osman Zakaria, PMP
 
-### Analytical & Data-Driven Project Coordinator | Power BI, SQL, Python Specialist
+### Analytical & Data-Driven Project Coordinator | Power BI, SPSS, SQL, Python Specialist
 
 ---
 

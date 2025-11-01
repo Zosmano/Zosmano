@@ -31,10 +31,9 @@ Showcasing my proven ability to apply technical skills to solve complex problems
 
 ### AI & Big Data for African Tax Reform (Research)
 
-* Summary: Designed predictive models in Python and Power BI to assess tax revenue potential in Africa's informal sector. The project involved integrating geospatial, mobile transaction, and economic data to create a scalable framework for tax collection.
-* Technologies: Python, Power BI, Geospatial Data, Economic Data, Statistical Modeling.
-* Status: Findings being prepared for presentation at the Global Conference Alliance Inc., Canada (2026).
-* Action Item: Create a new repository for this project and link it here once complete!
+ **Summary**: Designed predictive models in Python and Power BI to assess tax revenue potential in Africa's informal sector. The project involved integrating geospatial, mobile transaction, and economic data to create a scalable framework for tax collection.
+**Technologies**: Python, Power BI, Geospatial Data, Economic Data, Statistical Modeling.
+**Status**: Findings being prepared for presentation at the Global Conference Alliance Inc., Canada (2026).
 
 ### Selected Projects & Experience
 

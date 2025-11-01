@@ -29,7 +29,7 @@ I am a **PMP-certified professional**  specializing in transforming complex data
 
 Showcasing my proven ability to apply technical skills to solve complex problems.
 
-### AI & Big Data for African Tax Reform (Research)
+### 🚀 AI & Big Data for African Tax Reform (Research)
 
  **Summary**: Designed predictive models in Python and Power BI to assess tax revenue potential in Africa's informal sector. The project involved integrating geospatial, mobile transaction, and economic data to create a scalable framework for tax collection.
  
@@ -37,7 +37,7 @@ Showcasing my proven ability to apply technical skills to solve complex problems
 
 **Status**: Findings being prepared for presentation at the Global Conference Alliance Inc., Canada (2026).
 
-   ## Other Projects & Experience
+   ## 🛠️ Other Projects & Experience
 
 ### Freelance Data Analyst, Content Creator (Jan. 2025 - Present): 
 * Collect, clean, and analyze structured/unstructured data. 

@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Osman Zakaria, PMP
 
-### Analytical & Data-Driven Project Coordinator | Power BI, SPSS, SQL, Python Specialist
+# Analytical & Data-Driven Project Coordinator | Power BI, SPSS, SQL, Python Specialist
 
 ---
 
@@ -29,7 +29,7 @@ I am a **PMP-certified professional**  specializing in transforming complex data
 
 Showcasing my proven ability to apply technical skills to solve complex problems.
 
-### AI & Big Data for African Tax Reform (Research)
+# AI & Big Data for African Tax Reform (Research)
 
  **Summary**: Designed predictive models in Python and Power BI to assess tax revenue potential in Africa's informal sector. The project involved integrating geospatial, mobile transaction, and economic data to create a scalable framework for tax collection.
  
@@ -37,11 +37,11 @@ Showcasing my proven ability to apply technical skills to solve complex problems
 
 **Status**: Findings being prepared for presentation at the Global Conference Alliance Inc., Canada (2026).
 
-   ### Selected Projects & Experience
+   ## Selected Projects & Experience
 
-# Freelance Data Analyst, Content Creator (Jan. 2025 - Present): 
+### Freelance Data Analyst, Content Creator (Jan. 2025 - Present): 
 * Collect, clean, and analyze structured/unstructured data. 
-# School Electoral Simulation Project - Ghana Education Service (2022):
+### School Electoral Simulation Project - Ghana Education Service (2022):
 * Designed and executed a practical, data-informed school-based simulation of Ghana's national electoral process.
-# New Curriculum Implementation – Ghana Education Service (Jan. – Dec. 2022)
+### New Curriculum Implementation – Ghana Education Service (Jan. – Dec. 2022)
 * Implemented Ghana Education Service’s new Common Core Programme (CCP) curriculum for Mathematics in Basic 7, ensuring a data-informed transition to a competency-based framework.

@@ -38,9 +38,7 @@ Showcasing my proven ability to apply technical skills to solve complex problems
 **Status**: Findings being prepared for presentation at the Global Conference Alliance Inc., Canada (2026).
 
    ## 🛠️ Other Projects & Experience
-
-### Freelance Data Analyst, Content Creator (Jan. 2025 - Present): 
-* Collect, clean, and analyze structured/unstructured data. 
+   
 ### School Electoral Simulation Project - Ghana Education Service (2022):
 * Designed and executed a practical, data-informed school-based simulation of Ghana's national electoral process.
 ### New Curriculum Implementation – Ghana Education Service (Jan. – Dec. 2022)

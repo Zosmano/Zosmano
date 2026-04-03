@@ -37,7 +37,8 @@ Showcasing my proven ability to apply technical skills to solve complex problems
 
 **Status**: Findings being prepared for presentation at the Global Conference Alliance Inc., Canada (2026).
 
-   ## 🛠️ Application of Predictive Analytics to Forecast Global Trends in Participatory Democracy 
+   ### 🛠️ Application of Predictive Analytics to Forecast Global Trends in Participatory Democracy 
    
 **Summary**: Leveraged a dataset of 1,000+ open-source cases from Participedia using Random Forest and Gradient Boosting architectures to map the global diffusion of democratic practices, identifying key geographic anchors.
 
+**Technologies**: Python, SQL, Power BI, Economic Data, Predictive Modelling, Statistical Modeling.

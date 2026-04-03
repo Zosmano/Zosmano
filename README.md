@@ -37,9 +37,7 @@ Showcasing my proven ability to apply technical skills to solve complex problems
 
 **Status**: Findings being prepared for presentation at the Global Conference Alliance Inc., Canada (2026).
 
-   ## 🛠️ Other Projects & Experience
+   ## 🛠️ Application of Predictive Analytics to Forecast Global Trends in Participatory Democracy 
    
-### School Electoral Simulation Project - Ghana Education Service (2022):
-* Designed and executed a practical, data-informed school-based simulation of Ghana's national electoral process.
-### New Curriculum Implementation – Ghana Education Service (Jan. – Dec. 2022)
-* Implemented Ghana Education Service’s new Common Core Programme (CCP) curriculum for Mathematics in Basic 7, ensuring a data-informed transition to a competency-based framework.
+**Summary**: Leveraged a dataset of 1,000+ open-source cases from Participedia using Random Forest and Gradient Boosting architectures to map the global diffusion of democratic practices, identifying key geographic anchors.
+

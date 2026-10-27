@@ -1,4 +1,5 @@
-Hi there 👋 I'm Osman Zakaria, PMP
+Hi there 👋 
+I'm Osman Zakaria, PMP
 Analytical & Data-Driven Project Coordinator | Power BI, SPSS, SQL, Python Specialist
 Portfolio: zosmano.github.io | LinkedIn: linkedin.com/in/osmanzakaria | Email: zosman50@gmail.com
 ---

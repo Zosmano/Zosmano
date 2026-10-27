@@ -19,28 +19,27 @@ I am a **PMP-certified professional** with a **Master's in Analytics**, speciali
 
 ---
 
-## 🛠️ My Technical Toolkit
+## 🛠️ Toolkit
 
-| Category | Tools & Technologies |
+| Category | Tools |
 |---|---|
-| Data Analysis & Visualization | Power BI (DAX, Power Query), SQL (PostgreSQL, MySQL, SQLite), Python (pandas, NumPy, matplotlib, text processing, CatBoost, XGBoost), Tableau, Excel, SPSS |
-| Project & Process Management | PMP, data-driven decision-making, report automation, ETL workflow automation, documentation control |
-| Communication & Reporting | Technical writing, presentation design, cross-functional collaboration |
+| Analysis & BI | Power BI (DAX, Power Query), Tableau, Excel (advanced), SPSS |
+| Data & code | SQL (PostgreSQL, MySQL, SQLite), Python (pandas, NumPy, matplotlib, CatBoost, XGBoost) |
+| Project delivery | PMP, requirements and specifications, report automation, ETL workflows, document control |
+| Safety credentials | Construction Safety Officer (CSO), Advanced First Aid (OFA Level 3), WHMIS, Confined Space Entry, Fall Protection, Traffic Control Person |
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured projects
 
-| Project | Tools | Links |
-|---|---|---|
-| Next Shift: Ontario autoworker job match | Python, JavaScript, open data | [Try the interactive tool](https://claude.ai/artifact/TosuEsDPFk3BEKgXYeCTBy) |
-| Canada Post turnaround analytics | Python, Census 2021, optimization | [Read the interactive analysis](https://claude.ai/artifact/J7girjpym3SAGt3zXGScmi) |
-| U.S. flight delay pipeline | Python, SQL, SQLite | [Code and README on GitHub](https://github.com/Zosmano/flight-delay-pipeline) |
-| Canadian household energy, 2011 to 2021 | Power BI, DAX, SQL | [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWFlMjQxZTUtNTVlYi00MjMzLWIzODAtMzk3MjE3ZDQyZjE3IiwidCI6ImM3ZTc5YjlkLWVjZTktNDEzMy04NzQzLWI2Y2FkMjZjNTc0ZiIsImMiOjEwfQ%3D%3D) · [SQL analysis on GitHub](https://github.com/Zosmano/Household-Energy_SQL_Analysis) |
-| Global Democratic Governance dashboard | Power BI, Power Query | [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmFlMDhlMTEtOWE3NC00ZTRhLWFjNjEtZGY2ZGRiOGVkMGVlIiwidCI6ImM3ZTc5YjlkLWVjZTktNDEzMy04NzQzLWI2Y2FkMjZjNTc0ZiIsImMiOjEwfQ%3D%3D) |
-| Executive Portfolio Diagnostic Suite | Tableau | [Tableau Public dashboard](https://public.tableau.com/app/profile/osman.zakaria/viz/ExecutiveDashboard_Tableau_17897535940690/PortfolioPerformanceCostVariance) |
-| Participatory-democracy case classifier (research) | Python, CatBoost, XGBoost | Paper under review at Taylor & Francis |
-| AI & Big Data for African Tax Reform (research) | Python, field study | Accepted, Global Conference Alliance Inc. |
+| Project | What it shows | Tools | Links |
+|---|---|---|---|
+| ✈️ U.S. flight delay pipeline | End-to-end pipeline on 4.1M flights; reproduces all 96 published DOT figures | Python, SQL, SQLite | [Code & README](https://github.com/Zosmano/flight-delay-pipeline) |
+| 🚌 Next Shift: Ontario autoworker job match | Interactive tool ranking jobs for laid-off autoworkers from 89,557 Job Bank postings | Python, JavaScript, open data | [Interactive tool](https://claude.ai/artifact/TosuEsDPFk3BEKgXYeCTBy) · [Repo](https://github.com/Zosmano/autoworker-transition-platform) |
+| 📮 Canada Post turnaround analytics | Cost-saving and mailbox-siting model across 1,646 forward sortation areas | Python, Census 2021, optimization | [Interactive analysis](https://claude.ai/artifact/J7girjpym3SAGt3zXGScmi) · [Repo](https://github.com/Zosmano/canada-post-turnaround-analytics) |
+| ⚡ Canadian household energy, 2011–2021 | Power BI dashboard cross-checked against a SQL analysis | Power BI, DAX, SQL | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWFlMjQxZTUtNTVlYi00MjMzLWIzODAtMzk3MjE3ZDQyZjE3IiwidCI6ImM3ZTc5YjlkLWVjZTktNDEzMy04NzQzLWI2Y2FkMjZjNTc0ZiIsImMiOjEwfQ%3D%3D) · [SQL](https://github.com/Zosmano/Household-Energy_SQL_Analysis) |
+| 🌍 Global Democratic Governance dashboard | Links country governance indicators to 2.26K+ participatory-democracy cases | Power BI, Power Query | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmFlMDhlMTEtOWE3NC00ZTRhLWFjNjEtZGY2ZGRiOGVkMGVlIiwidCI6ImM3ZTc5YjlkLWVjZTktNDEzMy04NzQzLWI2Y2FkMjZjNTc0ZiIsImMiOjEwfQ%3D%3D) · [Repo](https://github.com/Zosmano/Participedia-Global-Research-Dashboard) |
+| 📊 Executive Portfolio Diagnostic Suite | PMO dashboard on 1M+ synthetic records: cost variance, earned value, burn-down | Tableau | [Tableau Public](https://public.tableau.com/app/profile/osman.zakaria/viz/ExecutiveDashboard_Tableau_17897535940690/PortfolioPerformanceCostVariance) · [Repo](https://github.com/Zosmano/Executive-Portfolio-Diagnostic-Suite-1M-Records-) |
 
 More detail on each project is on [my portfolio site](https://zosmano.github.io).
 

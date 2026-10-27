@@ -1,8 +1,9 @@
-# Hi there 👋 I'm Osman Zakaria, PMP
+# Hi, I'm Osman Zakaria, PMP 👋
 
-# Analytical & Data-Driven Project Coordinator | Power BI, SPSS, SQL, Python Specialist
+### Data & Research Analyst · Project Coordinator · Construction Safety Officer
+**Power BI · SQL · Python · Tableau · Excel** | Vancouver, BC, Canada
 
-**Portfolio:** [Visit my portfolio site](https://zosmano.github.io) | **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/osmanzakaria) | **Email:** zosman50@gmail.com
+[Portfolio](https://zosmano.github.io) · [LinkedIn](https://www.linkedin.com/in/osmanzakaria) · zosman50@gmail.com
 
 ---
 

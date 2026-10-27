@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-I am an analytical and results-driven professional with over 3 years of experience in data management, project coordination, and business analysis across education, public administration, and research sectors.
+I am an analytical and results-driven professional with over 6 years of experience in data management, payroll analysis, project coordination, data validation, and research and business analysis across education, public administration, and research sectors.
 
-I am a **PMP-certified professional**  specializing in transforming complex data and processes into clear, concise reports, visualizations, and deliverables that inform decision-making and enhance operational efficiency. I'm adept at coordinating multi-stakeholder communications and supporting organizational change initiatives.
+I am a **PMP-certified professional** with a **Master’s in Analytics** specializing in transforming complex data and processes into clear, concise reports, visualizations, and deliverables that inform decision-making and enhance operational efficiency. I'm adept at coordinating multi-stakeholder communications and supporting organizational change initiatives.
 
 * 🔭 Current Focus: Developing interactive Power BI dashboards and SQL-based models for KPI and operational reporting for clients.
 * 💡 Goal: To leverage data science and project management to drive organizational efficiency and strategy.

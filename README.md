@@ -91,9 +91,9 @@ An executive-level Tableau PMO diagnostic dashboard on a synthetic enterprise da
 
 ## 🔬 Research
 
-### Predictive Analytics to Forecast Global Trends in Participatory Democracy
+### A Macro-micro–Hybrid Ensemble Framework for Institutional Governance 
 
-A hybrid CatBoost and XGBoost ensemble that classifies 2.26K+ global participatory-democracy cases from Participedia data and forecasts annual case volumes through 2030. Accuracy is 76% against baseline models near 52%.
+A hybrid CatBoost and XGBoost ensemble that classifies 2.26K+ global participatory-democracy cases from Participedia data and forecasts annual case volumes through 2030. Accuracy is 76%, compared with baseline models near 52%.
 
 - **Technologies:** Python, SQL, Power BI, predictive and statistical modelling.
 - **Status:** paper submitted to Taylor & Francis (September 2026), under review.

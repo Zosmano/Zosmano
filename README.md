@@ -18,7 +18,7 @@ I am a **PMP-certified professional** with a **Master's in Analytics**, speciali
 
 * 🔭 Current Focus: Research analysis at Participedia, and a four-project public-data analytics program run as one PMP-managed portfolio (see the roadmap below).
 * 💡 Goal: To leverage data science and project management to drive organizational efficiency and strategy.
-* 📫 How to reach me: zosman50@gmail.com
+* 📫 How to reach me: [![Email](https://img.shields.io/badge/zosman50@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zosman50@gmail.com)
 
 ---
 
@@ -99,5 +99,6 @@ A Tableau PMO diagnostic on 1M+ synthetic records across 50 projects. It shows a
 ---
 
 ## 📫 Get in touch
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge)](https://zosmano.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/osmanzakaria)
+(https://github.com/users/Zosmano/projects/1/views/2)
+[![Email](https://img.shields.io/badge/zosman50@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zosman50@gmail.com)

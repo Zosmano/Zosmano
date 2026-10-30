@@ -1,6 +1,6 @@
 # Hi, I'm Osman Zakaria, PMP 👋
 
-### Data & Research Analyst · Project Coordinator · Construction Safety Officer
+### Data & Research Analyst · Project Coordinator · Safety Officer
 **Power BI · SQL · Python · Tableau · Excel** | Vancouver, BC, Canada
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge)](https://zosmano.github.io)

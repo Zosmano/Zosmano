@@ -100,5 +100,4 @@ A Tableau PMO diagnostic on 1M+ synthetic records across 50 projects. It shows a
 
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/osmanzakaria)
-(https://github.com/users/Zosmano/projects/1/views/2)
 [![Email](https://img.shields.io/badge/zosman50@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zosman50@gmail.com)

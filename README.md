@@ -3,11 +3,10 @@
 ### Data & Research Analyst · Project Coordinator · Construction Safety Officer
 **Power BI · SQL · Python · Tableau · Excel** | Vancouver, BC, Canada
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-zosmano.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://zosmano.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-osmanzakaria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osmanzakaria)
-[![Roadmap](https://img.shields.io/badge/Analytics_Portfolio-Roadmap-8250DF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/users/Zosmano/projects/1/views/2)
-
-📫 zosman50@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge)](https://zosmano.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/osmanzakaria)
+[![Roadmap](https://img.shields.io/badge/Roadmap-8250DF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/users/Zosmano/projects/1/views/2)
+[![Email](https://img.shields.io/badge/zosman50@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zosman50@gmail.com)
 
 ---
 
@@ -106,8 +105,6 @@ A Tableau PMO diagnostic on 1M+ synthetic records across 50 projects. It shows a
 ---
 
 ## 📫 Get in touch
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://zosmano.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osmanzakaria)
-
-📫 zosman50@gmail.com
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge)](https://zosmano.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/osmanzakaria)
+[![Roadmap](https://img.shields.io/badge/Roadmap-8250DF?style=for-the-badge&logo=g

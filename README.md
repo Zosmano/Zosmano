@@ -34,7 +34,6 @@ Four public-data analytics projects planned and delivered as one program, from d
 | 🌍 AI & Big Data for African Tax Reform (Ghana case) | Survey design · fieldwork · coding · statistics · publish | 7 |
 
 [![Timeline](https://img.shields.io/badge/View_timeline-8250DF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/users/Zosmano/projects/1/views/2)
-[![All items](https://img.shields.io/badge/All_items-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/users/Zosmano/projects/1/views/1)
 
 ---
 
@@ -66,7 +65,6 @@ More detail on each project is on [my portfolio site](https://zosmano.github.io)
 
 ### 📮 Canada Post turnaround analytics
 Combines Canada Post delivery-mode data with the 2021 Census and the National Address Register (10.7M buildings) across all 1,646 forward sortation areas. It estimates the saving from converting door-to-door delivery to community mailboxes (about $487M a year against $719M of mailbox capital, a model estimate) and ranks the areas to convert first. It also sites mailboxes on real street networks in three case-study areas, and a parcel-churn model flags customers at risk of leaving.
-→ [Read the interactive analysis](https://claude.ai/artifact/J7girjpym3SAGt3zXGScmi) · [Repo and six report dashboards](https://github.com/Zosmano/canada-post-turnaround-analytics)
 *Independent analysis, not produced by or affiliated with Canada Post.*
 
 ### 📑 Change Orders: federal contract cost growth

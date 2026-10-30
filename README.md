@@ -71,20 +71,16 @@ Combines Canada Post delivery-mode data with the 2021 Census and the National Ad
 
 ### 📑 Change Orders: federal contract cost growth
 Follows 351,872 Government of Canada contracts ($10K+, awarded 2017–2023) through three years of amendments: their value grew from $83.7B to $98.7B (+18%). An award-day model (AUC 0.81) flags contracts likely to grow 25% or more using only what is known at signing. A project-management layer treats each contract as a project: earned value at close (CPI 0.85), reference-class forecasting, PERT estimates, a Monte Carlo contingency backtested out of time, and an expected-monetary-value risk register.
-→ [Open the interactive app](https://claude.ai/artifact/4z9ZPCezsJwN5r1m1py6Wy) · [Repo and nine report dashboards](https://github.com/Zosmano/federal-contract-change-orders)
 
 ### 🚌 Next Shift: Ontario autoworker job match
 For workers laid off at Stellantis Brampton and GM CAMI Ingersoll. A worker picks a plant job and the longest drive they'd make. The tool then ranks Ontario occupations by skill fit (ESDC's OaSIS ratings), Job Bank openings within a rush-hour drive, pay, and training time, and lists nearby college programs and funding. A planning view estimates how many laid-off workers local openings could absorb.
-→ [Try the interactive tool](https://claude.ai/artifact/TosuEsDPFk3BEKgXYeCTBy) · [Repo and six report dashboards](https://github.com/Zosmano/autoworker-transition-platform)
 *Independent analysis from public data. Job postings are not hires, and the workforce mix and the share of openings workers can win are adjustable assumptions.*
 
 ### 🌍 AI & Big Data for African Tax Reform (Ghana case study)
 The evidence base for my GCA paper. 53 hand-coded informal-sector questionnaires, a survey of 21 tax and finance professionals and MTN Ghana's answers show that 98% of workers use mobile money and 85% say they should pay tax, yet only 36.5% have heard of AI. Awareness, not income, decides acceptance. Workers split into three readiness segments (26% ready, 35% persuadable, 39% resistant), and 27 of the paper's 29 figures are confirmed against the coded forms.
-→ [Explore the live dashboard](https://claude.ai/artifact/PoP5JUqWaH6RK664eH1dBY) · [Repo and seven report dashboards](https://github.com/Zosmano/african-ai-tax-reform)
 
 ### ✈️ U.S. flight delay pipeline, January to July 2026
 Loads seven monthly Bureau of Transportation Statistics files (4,120,342 domestic flights, 13 carriers, 357 airports) into SQLite and runs 12 data-quality checks. It then recomputes on-time rates for every carrier and month. All 96 recomputed figures match the Department of Transportation's published Air Travel Consumer Report within its rounding band. A Simpson's paradox check of all 78 carrier pairs found rankings that reverse when carriers are compared at the same airports.
-→ [Code, SQL and README](https://github.com/Zosmano/flight-delay-pipeline)
 
 ### ⚡ Canadian household energy, 2011 to 2021
 A Power BI dashboard on Statistics Canada data for 10 provinces, built around a 70.84 GJ national benchmark. A matching SQL analysis of 989 provincial observations ranks the provinces (Alberta is highest at +11.4 GJ) and reproduces the dashboard figures, so the two tools cross-check each other.
@@ -107,4 +103,3 @@ A Tableau PMO diagnostic on 1M+ synthetic records across 50 projects. It shows a
 ## 📫 Get in touch
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge)](https://zosmano.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/osmanzakaria)
-[![Roadmap](https://img.shields.io/badge/Roadmap-8250DF?style=for-the-badge&logo=g

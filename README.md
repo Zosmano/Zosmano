@@ -6,6 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge)](https://zosmano.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/osmanzakaria)
 [![Roadmap](https://img.shields.io/badge/Roadmap-8250DF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/users/Zosmano/projects/1/views/2)
+[![Resume](https://img.shields.io/badge/R%C3%A9sum%C3%A9-0B6B5D?style=for-the-badge&logo=readthedocs&logoColor=white)](https://zosmano.github.io/Osman_Zakaria_Resume.pdf)
 [![Email](https://img.shields.io/badge/zosman50@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zosman50@gmail.com)
 
 ---
@@ -52,16 +53,25 @@ Four public-data analytics projects planned and delivered as one program, from d
 
 | Project | What it shows | Tools | Links |
 |---|---|---|---|
+| 🗳️ Participation Design Advisor | Which designs of citizens' assemblies, participatory budgets and consultations go with documented impact, from 2,260 Participedia cases | Python, logistic regression, JavaScript | [![Live](https://img.shields.io/badge/Live_tool-FFB400?style=flat-square)](https://zosmano.github.io/Participedia-Design-Advisor/docs/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Zosmano/Participedia-Design-Advisor) [![Power BI](https://img.shields.io/badge/Companion_dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZmFlMDhlMTEtOWE3NC00ZTRhLWFjNjEtZGY2ZGRiOGVkMGVlIiwidCI6ImM3ZTc5YjlkLWVjZTktNDEzMy04NzQzLWI2Y2FkMjZjNTc0ZiIsImMiOjEwfQ%3D%3D) |
+| 🦺 Site Safety Early Warning | Which zone of a construction site is most likely to hurt someone in the next five work days, and the controls to apply before the shift (BC, Ontario, Alberta) | Python, gradient boosting, JavaScript | [![Live](https://img.shields.io/badge/Live_dashboard-FFB400?style=flat-square)](https://claude.ai/artifact/7YTTA3WRJAfJstwjaZGdb6) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Zosmano/construction-safety-early-warning) |
 | 📮 Canada Post turnaround analytics | Cost-saving and mailbox-siting model across 1,646 forward sortation areas | Python, Census 2021, optimization | [![Live](https://img.shields.io/badge/Live_analysis-FFB400?style=flat-square)](https://claude.ai/artifact/J7girjpym3SAGt3zXGScmi) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Zosmano/canada-post-turnaround-analytics) |
 | 📑 Change Orders: federal contract cost growth | 351,872 contracts, award-day risk model, PMP project controls (EVM, PERT, Monte Carlo) | Python, scikit-learn, open data | [![Live](https://img.shields.io/badge/Live_app-FFB400?style=flat-square)](https://claude.ai/artifact/4z9ZPCezsJwN5r1m1py6Wy) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Zosmano/federal-contract-change-orders) |
 | 🚌 Next Shift: Ontario autoworker job match | Interactive tool ranking jobs for laid-off autoworkers from 89,557 Job Bank postings | Python, JavaScript, open data | [![Live](https://img.shields.io/badge/Live_tool-FFB400?style=flat-square)](https://claude.ai/artifact/TosuEsDPFk3BEKgXYeCTBy) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Zosmano/autoworker-transition-platform) |
 | 🌍 AI & Big Data for African Tax Reform | Ghana field survey of 53 informal workers and 21 professionals; readiness segments; paper check | Python, SciPy, survey design | [![Live](https://img.shields.io/badge/Live_dashboard-FFB400?style=flat-square)](https://claude.ai/artifact/PoP5JUqWaH6RK664eH1dBY) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Zosmano/african-ai-tax-reform) |
 | ✈️ U.S. flight delay pipeline | End-to-end pipeline on 4.1M flights; reproduces all 96 published DOT figures | Python, SQL, SQLite | [![Repo](https://img.shields.io/badge/Code_&_README-181717?style=flat-square&logo=github)](https://github.com/Zosmano/flight-delay-pipeline) |
 | ⚡ Canadian household energy, 2011–2021 | Power BI dashboard cross-checked against a SQL analysis | Power BI, DAX, SQL | [![Power BI](https://img.shields.io/badge/Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMWFlMjQxZTUtNTVlYi00MjMzLWIzODAtMzk3MjE3ZDQyZjE3IiwidCI6ImM3ZTc5YjlkLWVjZTktNDEzMy04NzQzLWI2Y2FkMjZjNTc0ZiIsImMiOjEwfQ%3D%3D) [![SQL](https://img.shields.io/badge/SQL-181717?style=flat-square&logo=github)](https://github.com/Zosmano/Household-Energy_SQL_Analysis) |
-| 🗳️ Global Democratic Governance dashboard | Links country governance indicators to 2.26K+ participatory-democracy cases | Power BI, Power Query | [![Power BI](https://img.shields.io/badge/Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZmFlMDhlMTEtOWE3NC00ZTRhLWFjNjEtZGY2ZGRiOGVkMGVlIiwidCI6ImM3ZTc5YjlkLWVjZTktNDEzMy04NzQzLWI2Y2FkMjZjNTc0ZiIsImMiOjEwfQ%3D%3D) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Zosmano/Participedia-Global-Research-Dashboard) |
 | 📊 Executive Portfolio Diagnostic Suite | PMO dashboard on 1M+ synthetic records: cost variance, earned value, burn-down | Tableau | [![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/osman.zakaria/viz/ExecutiveDashboard_Tableau_17897535940690/PortfolioPerformanceCostVariance) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Zosmano/Executive-Portfolio-Diagnostic-Suite-1M-Records-) |
 
 More detail on each project is on [my portfolio site](https://zosmano.github.io).
+
+### 🗳️ Participation Design Advisor
+Ranks the design choices behind citizens' assemblies, participatory budgets and public consultations by how often each one appears in cases with documented impact, across 2,260 Participedia cases. A logistic regression on case features drives an interactive tool that returns a recommended design for a given purpose, scale and budget, with the evidence and the uncertainty behind each recommendation. A companion Power BI report relates country governance indicators to the same case base.
+*Independent analysis of open Participedia data.*
+
+### 🦺 Site Safety Early Warning
+Ranks which zone of a construction site is most likely to injure someone in the next five work days, from signals a site already records: near misses, hazard observations, PPE and housekeeping audits, new workers, overtime, trade congestion and the weather forecast. Across 39,990 held-out zone-days on 30 sites in three provinces, the top-risk band covered 9% of zone-days, carried 3.5 times the event rate and captured 31% of all incidents (AUC 0.754 against 0.662 for a crew-size baseline). Each flagged hazard is paired with the control and the governing provincial provision. The same approach was then tested on 948,000 real New York City site-weeks from open records.
+*Daily site logs are simulated, because contractor logs are not public; they are calibrated to published WorkSafeBC, AWCBC, Statistics Canada and Alberta OHS statistics and run on real Environment Canada weather. Not affiliated with any regulator or employer.*
 
 ### 📮 Canada Post turnaround analytics
 Combines Canada Post delivery-mode data with the 2021 Census and the National Address Register (10.7M buildings) across all 1,646 forward sortation areas. It estimates the saving from converting door-to-door delivery to community mailboxes (about $487M a year against $719M of mailbox capital, a model estimate) and ranks the areas to convert first. It also sites mailboxes on real street networks in three case-study areas, and a parcel-churn model flags customers at risk of leaving.
@@ -83,9 +93,6 @@ Loads seven monthly Bureau of Transportation Statistics files (4,120,342 domesti
 ### ⚡ Canadian household energy, 2011 to 2021
 A Power BI dashboard on Statistics Canada data for 10 provinces, built around a 70.84 GJ national benchmark. A matching SQL analysis of 989 provincial observations ranks the provinces (Alberta is highest at +11.4 GJ) and reproduces the dashboard figures, so the two tools cross-check each other.
 
-### 🗳️ Global Democratic Governance dashboard
-A three-page Power BI report relating each country's Gini index, Freedom House score and internet penetration to its participatory-democracy cases and preferred methods. A Power Query pipeline cleans and normalizes 2.26K+ case records.
-
 ### 📊 Executive Portfolio Diagnostic Suite
 A Tableau PMO diagnostic on 1M+ synthetic records across 50 projects. It shows actual cost against earned and planned value, portfolio cost variance, and resource use.
 
@@ -99,5 +106,6 @@ A Tableau PMO diagnostic on 1M+ synthetic records across 50 projects. It shows a
 ---
 
 ## 📫 Get in touch
+[![Resume](https://img.shields.io/badge/R%C3%A9sum%C3%A9-0B6B5D?style=for-the-badge&logo=readthedocs&logoColor=white)](https://zosmano.github.io/Osman_Zakaria_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/osmanzakaria)
 [![Email](https://img.shields.io/badge/zosman50@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zosman50@gmail.com)

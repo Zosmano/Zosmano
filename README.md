@@ -100,9 +100,12 @@ A Tableau PMO diagnostic on 1M+ synthetic records across 50 projects. It shows a
 
 ## 🔬 Research
 
-A Macro-micro–Hybrid Ensemble Framework for Institutional Governance: a hybrid CatBoost and XGBoost ensemble that classifies 2.26K+ Participedia cases at 76% accuracy, against baseline models near 52%, and forecasts annual case volumes to 2030. The paper grew out of the Participation Design Advisor project and shares its analysis and data. Submitted to Taylor & Francis (September 2026); under review.
+A Macro-micro–Hybrid Ensemble Framework for Institutional Governance: a hybrid CatBoost and XGBoost ensemble that classifies 2.26K+ Participedia cases at 76% accuracy, against baseline models near 52%, and forecasts annual case volumes to 2030. The paper grew out of the Participation Design Advisor project and shares its analysis and data. 
+Submitted to Taylor & Francis (September 2026); under review.
+
 ![Live tool](https://img.shields.io/badge/Live_tool-FFB400?style=flat-square) ![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github) ![Companion dashboard](https://img.shields.io/badge/Companion_dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-Leveraging Artificial Intelligence and Big Data for African Tax Reform: AI adoption and revenue potential in Africa's informal sector, combining predictive models with a consented field study of financial professionals and informal-sector workers. Accepted by the Global Conference Alliance Inc. (March 2025); presentation pending.
+Leveraging Artificial Intelligence and Big Data for African Tax Reform: AI adoption and revenue potential in Africa's informal sector, combining predictive models with a consented field study of financial professionals and informal-sector workers. 
+Accepted by the Global Conference Alliance Inc. (March 2025); presentation pending.
 ![Live dashboard](https://img.shields.io/badge/Live_dashboard-FFB400?style=flat-square) ![Data and analysis](https://img.shields.io/badge/Data_and_analysis-181717?style=flat-square&logo=github)
 
 ---
